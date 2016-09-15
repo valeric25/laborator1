@@ -1,0 +1,2 @@
+# laborator1
+limbaj 
